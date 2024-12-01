@@ -1,0 +1,5 @@
+/*
+    APP STATIC
+    FOLDER FOR IMAGES, VIDEOS, GIF, ETC.
+*/
+
